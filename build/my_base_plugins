@@ -1,0 +1,9 @@
+## 我的基础插件（必备）
+需要兼容如 k2p 这样的小内存设备。因此编译时只包含尽量精简的
+
+- zerotier
+- ssr+
+- wol plus
+- luci-app-ddns 
+- luci-app-watchcat 
+- luci-app-adbyby-plus  
